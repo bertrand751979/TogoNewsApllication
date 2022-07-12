@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:id="@+id/nav_news"
+        android:title="News"
+        android:icon="@drawable/ic_news"></item>
+    <item android:id="@+id/nav_top_news"
+          android:title="Headlines"
+          android:icon="@drawable/ic_top_news"></item>
+    <item android:id="@+id/nav_favorite"
+        android:title="Favoris"
+        android:icon="@drawable/ic_favorite"></item>
+</menu>

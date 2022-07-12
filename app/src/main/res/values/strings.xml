@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">TogoNewsApllication</string>
+    <string name="global_news">GlobalNews</string>
+    <string name="top_new">Tops News</string>
+    <string name="fav_list">Favorite List</string>
+
+</resources>
